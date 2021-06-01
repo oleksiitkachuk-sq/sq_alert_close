@@ -1,0 +1,4 @@
+#==== Squish alert close
+opencv-python==4.5.2.52
+pyautogui==0.9.52
+comtypes==1.1.10

@@ -1,0 +1,36 @@
+Metadata-Version: 2.1
+Name: alert-close
+Version: 0.1
+Summary: Squish alert close
+Home-page: https://github.com/oleksiitkachuk-sq/sq_alert_close
+Author: Oleksii Tkachuk
+Author-email: tkalexey@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: free
+Classifier: Operating System :: OS Windows
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Welcome to Squish Alert Close
+<img src="about.png" height="343" />
+
+## Installation
+
+Run setup.py
+requirements:
+[opencv-python](https://pypi.org/project/opencv-python)
+[pyautogui](https://pypi.org/project/PyAutoGUI)
+[comtypes](https://pypi.org/project/comtypes)
+
+
+## Licensing
+
+See the [LICENSE](LICENSE) file for details.
+
+## About Squish Alert Close
+
+This module closes the error window that occurs due to server squash memory leaks (Windows 8 and higher).
+
